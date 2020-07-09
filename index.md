@@ -1,8 +1,4 @@
 
 
-<html>
-<body>
-    <title> Continuous Integration / Continuous Deployment </title>
-    <img src="Pipeline-Picture.png" alt="hi" class="inline"/>
-</body>
-</html>
+# Continuous Integration / Continuous Deployment
+<img src="Pipeline-Picture.png" alt="hi" class="inline"/>
