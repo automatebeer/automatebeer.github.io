@@ -1,4 +1,5 @@
 
+<img src="Pipeline-Picture.png" alt="hi" class="inline"/>
 
 You can use the [editor on GitHub](https://github.com/automatebeer/automatebeer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
